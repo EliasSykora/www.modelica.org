@@ -4,8 +4,8 @@ title: Modelica and FMI Conference
 
 {{<rawhtml>}}
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/ModelicaAndFMI_darkScheme.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/ModelicaAndFMI.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI_darkScheme.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.modelicaprague.cz/images/logos/ModelicaAndFMI.svg">
   <img src="images/Modelica_and_FMI_Confernce_Logo-light.svg" alt="16th International Modelica & FMI Conference">
   
 </picture>
