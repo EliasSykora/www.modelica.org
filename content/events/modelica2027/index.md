@@ -17,17 +17,9 @@ We are glad to announce the **17th International Modelica & FMI Conference**.
 It will be held at **Clarion Congress Hotel Prague, Czech Republic, September 20–22, 2027**.
 It is organized by [CSKI](https://www.cski.cz/), in cooperation with the [Modelica Association](/association/).  
 
-&nbsp;
-
 ------------------------------------
 
 {{< toc >}}
-
-------------------------------------
-
-## Sponsors
-
-[Become a sponsor](#call-for-sponsors) of the 17th International Modelica & FMI Conference!
 
 ------------------------------------
 
@@ -159,17 +151,12 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 ------------------------------------
 
-## Organization and Contact
-
-The conference is organized by Prof. Ulf Christian Müller from [HSLU](https://www.hslu.ch/en/), the University of Applied Sciences and Arts Lucerne in cooperation with the [Modelica Association](/association/)
-
-For general questions, please send an email to [modelica25@modelica.org](mailto:modelica25@modelica.org).
-
 ### Conference Board
 
 - Dr. Dirk Zimmer, German Aerospace Center (Conference Co-Chair)
 - Prof. Francesco Casella, Politecnico di Milano
 - Prof. Martin Sjölund, Linköping University
-- Dipl.-Math. Christian Bertsch, Robert Bosch GmbH
+- Dipl. Math. Christian Bertsch, Robert Bosch GmbH
 
-
+## Local Organization
+- Ing. Milena Zeithamlová, Action M Agency, Czech Republic modelica@action-m.com
