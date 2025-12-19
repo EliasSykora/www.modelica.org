@@ -32,7 +32,9 @@ In addition to paper presentations, the conference features several Modelica tut
 
 **We are looking forward to seeing you in Prague!**
 
-![Prague, Czech Republic](images/prague.jpg)
+<picture>
+  <img src="https://www.modelicaprague.cz/images/photos/prague.jpg" alt="Prague, Czech Republic" style="width:50%">
+</picture>
 
 {{<rawhtml>}}<i class="fa-solid fa-map-location-dot me-2"></i>{{</rawhtml>}}[Clarion Congress Hotel Prague, Freyova 945/33, 190 00 Praha 9-Vysočany](https://maps.app.goo.gl/CgHTQQF9DgQDeTUN6)
 
@@ -147,10 +149,13 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 ### Conference Board
 
-- Dr. Dirk Zimmer, German Aerospace Center (Conference Co-Chair)
+- Dr. Dirk Zimmer, German Aerospace Center (Conference Chair)
 - Prof. Francesco Casella, Politecnico di Milano
 - Prof. Martin Sjölund, Linköping University
 - Dipl. Math. Christian Bertsch, Robert Bosch GmbH
 
 ## Local Organization
-- Ing. Milena Zeithamlová, Action M Agency, Czech Republic modelica@action-m.com
+- Ing. Milena Zeithamlová, [Action M Agency](https://web.action-m.com/?lang=en) , Czech Republic [modelica@action-m.com](mailto:modelica@action-m.com).
+- Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium
+- doc. MUDr. Jiří Kofránek, CSc., Charles University
+- Bc. Eliáš Sýkora, DiS
