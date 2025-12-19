@@ -153,7 +153,7 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 - Prof. Francesco Casella, Politecnico di Milano
 - Prof. Martin Sjölund, Linköping University
 - Dipl. Math. Christian Bertsch, Robert Bosch GmbH
-- doc. MUDr. Jiří Kofránek, CSc., Charles University
+- Doc. MUDr. Jiří Kofránek, CSc., Charles University
 - Mgr. Tomáš Kulhánek, Ph.D., VITO, Mol, Belgium
 
 ## Local Organization
