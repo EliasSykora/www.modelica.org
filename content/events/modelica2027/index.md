@@ -147,7 +147,7 @@ The Modelica & FMI conference will bring together people using Modelica and/or o
 
 ------------------------------------
 
-### Conference Board
+## Conference Board
 
 - Dr. Dirk Zimmer, German Aerospace Center (Conference Chair)
 - Prof. Francesco Casella, Politecnico di Milano
