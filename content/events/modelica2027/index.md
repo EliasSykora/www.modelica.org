@@ -101,7 +101,7 @@ Please note that purely tool-related presentations are not permitted for these a
 ## Call for Tutorials
 At the Modelica Conference, several tutorials will be held in parallel. Each tutorial will a bit under 3 hours and will include a "hands-on experience" session (participants are expected to bring their own laptops; the presenter will provide the necessary tools).
 
-Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations. For product presentations, please refer to the Vendor Presentations section in the [call for sponsors](#call-for-sponsors). The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
+Please note that tutorials must involve hands-on activities and cannot be limited to commercial presentations or demonstrations.  The acceptance of tutorials will be based on the relevance to Modelica/FMI content and the timing of the application.
 
 ------------------------------------
 
