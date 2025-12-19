@@ -32,13 +32,9 @@ In addition to paper presentations, the conference features several Modelica tut
 
 **We are looking forward to seeing you in Prague!**
 
-![HLSU Campus Zug-Rotkreuz](images/prague.jpg)
+![Prague, Czech Republic](images/prague.jpg)
 
 {{<rawhtml>}}<i class="fa-solid fa-map-location-dot me-2"></i>{{</rawhtml>}}[Clarion Congress Hotel Prague, Freyova 945/33, 190 00 Praha 9-Vysočany](https://maps.app.goo.gl/CgHTQQF9DgQDeTUN6)
-
- {{<rawhtml>}}<i class="fa-solid fa-globe me-2"></i>{{</rawhtml>}}[Location & Directions](https://www.hslu.ch/en/lucerne-school-of-information-technology/about-us/standort/) 
-
-<!-- {{<rawhtml>}}<i class="fa-solid fa-vr-cardboard me-2"></i>{{</rawhtml>}}[Virtual Tour](https://dock.hslu.ch/rundgang/index.html?startscene=i)-->
 
 {{<rawhtml>}}<i class="fa-solid fa-bed me-2"></i>{{</rawhtml>}}[Conference Venue](https://modelicaprague.cz/venue.php)
 
@@ -71,8 +67,6 @@ You are encouraged to submit a full paper of at least 4 pages, with a maximum of
 - Modelica in other application areas (mathematical programming, databases etc.)
 - Modelica for teaching and education
 
- Please see the  [Authors' Guide](#authors-guide) for further information. Authors of papers that are not selected for presentation in the main conference sessions will have the opportunity to present their work as posters.
-
 If you plan to submit directly for a poster, then submit a (short) paper with a corresponding remark.
 
 The conference proceedings will be published by the Modelica Association on its website.
@@ -98,7 +92,7 @@ You are encouraged to submit an  **extended abstract**  of 1-2 pages, related to
 
 Industrial user presentations are an excellent way to present recent results to the Modelica community with less effort and overhead than a full paper submission. Please indicate whether you plan to give your presentation on-site or remotely in the submission form. These industrial user presentations differ from paper presentations, which we expect to be in-person. These abstracts will be peer-reviewed by experts, but no corresponding papers will be published in the conference proceedings.
 
-Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations. For more details on vendor presentations, please refer to the [call for sponsors](#call-for-sponsors).
+Please note that purely tool-related presentations are not permitted for these application-oriented presentations, and should instead be covered by vendor presentations.
 
 ------------------------------------
 
